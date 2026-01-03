@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Cách dùng: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Lệnh không hợp lệ. Dùng: /earthquake showdates hoặc /earthquake gendates",
+  "earthquake:scheduled-dates": "Động đất đã lên lịch cho năm {0}: {1}",
+  "earthquake:no-dates": "Không tìm thấy động đất nào đã lên lịch cho năm nay.",
+  "earthquake:regenerated": "Lịch động đất đã được tạo lại cho năm {0}.",
+  "earthquake:postquake": "Xảy ra trận động đất có độ lớn {0}.",
+  "earthquake:warning-toast": "Cảnh báo sớm: Bạn cảm thấy một rung động nhẹ.. Sắp có động đất.",
+  "earthquake:warning-today": "Cảnh báo động đất: Hôm nay các rung chấn sát nhau hơn.",
+  "earthquake:foreshock-weak": "Bạn cảm thấy những rung chấn nhẹ dưới chân.",
+  "earthquake:foreshock-medium": "Mặt đất gầm rú đầy đáng ngại...",
+  "earthquake:foreshock-strong": "Mặt đất rung lắc dữ dội!",
+  "earthquake:complete-toast": "Chuỗi rung chấn đã kết thúc: {0} chấn động, độ lớn cực đại {1}."
+}

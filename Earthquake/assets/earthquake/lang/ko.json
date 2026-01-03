@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "사용법: /earthquake [showdates | gendates]",
+  "earthquake:usage": "잘못된 명령입니다. 사용: /earthquake showdates 또는 /earthquake gendates",
+  "earthquake:scheduled-dates": "{0}년 예정된 지진: {1}",
+  "earthquake:no-dates": "올해 예정된 지진이 없습니다.",
+  "earthquake:regenerated": "{0}년 지진 일정이 다시 생성되었습니다.",
+  "earthquake:postquake": "규모 {0}의 지진이 발생했습니다.",
+  "earthquake:warning-toast": "조기 경보: 약한 진동을 느꼈습니다.. 곧 지진이 옵니다.",
+  "earthquake:warning-today": "지진 경보: 오늘은 진동 간격이 더 촘촘합니다.",
+  "earthquake:foreshock-weak": "발밑에서 약한 흔들림을 느낍니다.",
+  "earthquake:foreshock-medium": "땅이 불길하게 울립니다...",
+  "earthquake:foreshock-strong": "땅이 격하게 흔들립니다!",
+  "earthquake:complete-toast": "지진 연쇄가 종료되었습니다: {0}회 충격, 최대 규모 {1}."
+}

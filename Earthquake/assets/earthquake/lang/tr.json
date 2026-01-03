@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Kullanım: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Geçersiz komut. Şunu kullanın: /earthquake showdates veya /earthquake gendates",
+  "earthquake:scheduled-dates": "{0} yılı için planlanan depremler: {1}",
+  "earthquake:no-dates": "Bu yıl için planlanan deprem bulunamadı.",
+  "earthquake:regenerated": "Deprem takvimi {0} yılı için yeniden oluşturuldu.",
+  "earthquake:postquake": "{0} büyüklüğünde bir deprem meydana geldi.",
+  "earthquake:warning-toast": "Erken uyarı: Hafif bir titreşim hissettin.. Yakında deprem olacak.",
+  "earthquake:warning-today": "Deprem uyarısı: Bugün sarsıntılar birbirine daha yakın.",
+  "earthquake:foreshock-weak": "Ayaklarının altında hafif sarsıntılar hissediyorsun.",
+  "earthquake:foreshock-medium": "Zemin uğursuzca gürüldüyor...",
+  "earthquake:foreshock-strong": "Zemin şiddetle sallanıyor!",
+  "earthquake:complete-toast": "Sarsıntı dizisi sona erdi: {0} sarsıntı, en yüksek büyüklük {1}."
+}

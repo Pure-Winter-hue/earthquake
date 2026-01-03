@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "วิธีใช้: /earthquake [showdates | gendates]",
+  "earthquake:usage": "คำสั่งไม่ถูกต้อง ใช้: /earthquake showdates หรือ /earthquake gendates",
+  "earthquake:scheduled-dates": "แผ่นดินไหวที่กำหนดไว้สำหรับปี {0}: {1}",
+  "earthquake:no-dates": "ไม่พบแผ่นดินไหวที่กำหนดไว้สำหรับปีนี้",
+  "earthquake:regenerated": "สร้างตารางแผ่นดินไหวสำหรับปี {0} ใหม่แล้ว",
+  "earthquake:postquake": "เกิดแผ่นดินไหวขนาด {0} แล้ว",
+  "earthquake:warning-toast": "การเตือนล่วงหน้า: คุณรู้สึกถึงแรงสั่นสะเทือนเล็กน้อย.. จะเกิดแผ่นดินไหวในไม่ช้า",
+  "earthquake:warning-today": "คำเตือนแผ่นดินไหว: วันนี้แรงสั่นสะเทือนเกิดถี่ขึ้น",
+  "earthquake:foreshock-weak": "คุณรู้สึกถึงแรงสั่นสะเทือนเบา ๆ ใต้ฝ่าเท้า",
+  "earthquake:foreshock-medium": "พื้นดินคำรามอย่างน่าหวั่นวิตก...",
+  "earthquake:foreshock-strong": "พื้นดินสั่นสะเทือนอย่างรุนแรง!",
+  "earthquake:complete-toast": "สิ้นสุดลำดับแรงสั่นสะเทือน: {0} ครั้ง, ขนาดสูงสุด {1}."
+}

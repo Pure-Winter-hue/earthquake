@@ -1,0 +1,37 @@
+{
+    "EnableScheduledEvents": false,
+    "EventsPerYear": 3,
+    "EventNearPlayerRadius": 600,
+    "QuakesPerEventMin": 1,
+    "QuakesPerEventMax": 4,
+    "MagnitudeMin": 1,
+    "MagnitudeMax": 9,
+    "GoodiesPerEventMin": 30,
+    "StonesPerEventMin": 300,
+    "DepthClampBelowMag": 7,
+    "DepthClampToSeaOffset": 20,
+    "TickSeconds": 0.25,
+    "ShardLoweringEnabled": true,
+    "ShardPatchCount": 8,
+    "ShardPatchRadiusMin": 5,
+    "ShardPatchRadiusMax": 16,
+    "ShardLowerMin": 1,
+    "ShardLowerMax": 8,
+    "SoundsEnabled": true,
+    "InteriorScanHeight": 5,
+    "WarningDaysBefore": 2,
+    "UserSchedule": [
+       // {
+       //     "Month": 7,
+       //     "Day": 10,
+       //     "Hour": 14,
+       //     "Magnitudes": [ 5, 6 ]
+       //},
+       // {
+       //     "Month": 10,
+       //     "Day": 22,
+       //    "Hour": 8,
+       //   "Magnitudes": [ 4 ]
+       // }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Використання: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Неправильна команда. Використовуйте: /earthquake showdates або /earthquake gendates",
+  "earthquake:scheduled-dates": "Заплановані землетруси на рік {0}: {1}",
+  "earthquake:no-dates": "На цей рік не знайдено запланованих землетрусів.",
+  "earthquake:regenerated": "Розклад землетрусів повторно згенеровано на {0} рік.",
+  "earthquake:postquake": "Відбувся землетрус магнітудою {0}.",
+  "earthquake:warning-toast": "Раннє попередження: ви відчули легку вібрацію.. Незабаром буде землетрус.",
+  "earthquake:warning-today": "Попередження про землетрус: сьогодні поштовхи частіші.",
+  "earthquake:foreshock-weak": "Ви відчуваєте слабкі поштовхи під ногами.",
+  "earthquake:foreshock-medium": "Земля зловісно гуркоче...",
+  "earthquake:foreshock-strong": "Земля сильно тремтить!",
+  "earthquake:complete-toast": "Послідовність поштовхів завершено: {0} поштовх(и), максимальна магнітуда {1}."
+}

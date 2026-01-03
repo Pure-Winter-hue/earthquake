@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Użycie: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Nieprawidłowa komenda. Użyj: /earthquake showdates lub /earthquake gendates",
+  "earthquake:scheduled-dates": "Zaplanowane trzęsienia ziemi na rok {0}: {1}",
+  "earthquake:no-dates": "Nie znaleziono zaplanowanych trzęsień ziemi na ten rok.",
+  "earthquake:regenerated": "Harmonogram trzęsień ziemi odtworzony dla roku {0}.",
+  "earthquake:postquake": "Wystąpiło trzęsienie ziemi o magnitudzie {0}.",
+  "earthquake:warning-toast": "Wczesne ostrzeżenie: poczułeś lekkie drżenie.. Wkrótce nastąpi trzęsienie ziemi.",
+  "earthquake:warning-today": "Ostrzeżenie sejsmiczne: dziś wstrząsy są bliżej siebie.",
+  "earthquake:foreshock-weak": "Czujesz słabe wstrząsy pod stopami.",
+  "earthquake:foreshock-medium": "Ziemia złowieszczo dudni...",
+  "earthquake:foreshock-strong": "Ziemia trzęsie się gwałtownie!",
+  "earthquake:complete-toast": "Sekwencja wstrząsów zakończona: {0} wstrząs(y), maksymalna magnituda {1}."
+}

@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Verwendung: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Ungültiger Befehl. Verwende: /earthquake showdates oder /earthquake gendates",
+  "earthquake:scheduled-dates": "Geplante Erdbeben für das Jahr {0}: {1}",
+  "earthquake:no-dates": "Für dieses Jahr wurden keine geplanten Erdbeben gefunden.",
+  "earthquake:regenerated": "Erdbebenplan für das Jahr {0} neu erzeugt.",
+  "earthquake:postquake": "Ein Erdbeben der Magnitude {0} ist aufgetreten.",
+  "earthquake:warning-toast": "Frühwarnung: Du spürst ein leichtes Vibrieren.. Bald wird ein Erdbeben stattfinden.",
+  "earthquake:warning-today": "Erdbebenwarnung: Heute treten die Erschütterungen dichter auf.",
+  "earthquake:foreshock-weak": "Du spürst schwache Erschütterungen unter deinen Füßen.",
+  "earthquake:foreshock-medium": "Der Boden grollt unheilvoll...",
+  "earthquake:foreshock-strong": "Der Boden bebt heftig!",
+  "earthquake:complete-toast": "Die Beben-Sequenz ist beendet: {0} Stoß/Stöße, maximale Magnitude {1}."
+}

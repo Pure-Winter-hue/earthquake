@@ -1,0 +1,10 @@
+{
+  "type": "code",
+  "modid": "earthquake",
+  "name": "Earthquake",
+  "side": "universal",
+  "authors": [ "Pure Winter" ],
+  "description": "Destructive Earthquakes!",
+  "version": "1.0.0",
+  "dependencies": { "game": "1.21.5" }
+}

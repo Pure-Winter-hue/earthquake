@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Usage: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Invalid command. Use: /earthquake showdates or /earthquake gendates",
+  "earthquake:scheduled-dates": "Scheduled earthquakes for year {0}: {1}",
+  "earthquake:no-dates": "No scheduled earthquakes found for this year.",
+  "earthquake:regenerated": "Earthquake schedule regenerated for year {0}.",
+  "earthquake:postquake": "A magnitude {0} earthquake has occurred.",
+  "earthquake:warning-toast": "Early warning: You felt a nudging vibration.. There will be an earthquake soon.",
+  "earthquake:warning-today": "Earthquake warning: Today the tremors are closer together.",
+  "earthquake:foreshock-weak": "You feel faint tremors underfoot.",
+  "earthquake:foreshock-medium": "The ground rumbles ominously...",
+  "earthquake:foreshock-strong": "The ground shakes violently!",
+  "earthquake:complete-toast": "The quake sequence has ended: {0} shock(s), peak magnitude {1}."
+}

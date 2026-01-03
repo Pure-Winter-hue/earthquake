@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "طريقة الاستخدام: /earthquake [showdates | gendates]",
+  "earthquake:usage": "أمر غير صالح. استخدم: /earthquake showdates أو /earthquake gendates",
+  "earthquake:scheduled-dates": "الزلازل المجدولة لسنة {0}: {1}",
+  "earthquake:no-dates": "لم يتم العثور على زلازل مجدولة لهذه السنة.",
+  "earthquake:regenerated": "تمت إعادة إنشاء جدول الزلازل لسنة {0}.",
+  "earthquake:postquake": "وقع زلزال بقوة {0}.",
+  "earthquake:warning-toast": "إنذار مبكر: شعرتَ باهتزاز خفيف.. سيحدث زلزال قريبًا.",
+  "earthquake:warning-today": "تحذير من الزلازل: اليوم الاهتزازات أقرب إلى بعضها.",
+  "earthquake:foreshock-weak": "تشعر باهتزازات خفيفة تحت قدميك.",
+  "earthquake:foreshock-medium": "تهدر الأرض بشكل ينذر بالسوء...",
+  "earthquake:foreshock-strong": "تهتز الأرض بعنف!",
+  "earthquake:complete-toast": "انتهت سلسلة الهزات: {0} هزة/هزات، أقصى قوة {1}."
+}

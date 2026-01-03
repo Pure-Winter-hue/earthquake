@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Användning: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Ogiltigt kommando. Använd: /earthquake showdates eller /earthquake gendates",
+  "earthquake:scheduled-dates": "Planerade jordbävningar för år {0}: {1}",
+  "earthquake:no-dates": "Inga planerade jordbävningar hittades för detta år.",
+  "earthquake:regenerated": "Jordbävningsschemat återskapades för år {0}.",
+  "earthquake:postquake": "En jordbävning med magnitud {0} har inträffat.",
+  "earthquake:warning-toast": "Tidigt varningsmeddelande: Du kände en lätt vibration.. En jordbävning kommer snart.",
+  "earthquake:warning-today": "Jordbävningsvarning: Idag är skakningarna tätare.",
+  "earthquake:foreshock-weak": "Du känner svaga skakningar under fötterna.",
+  "earthquake:foreshock-medium": "Marken mullrar olycksbådande...",
+  "earthquake:foreshock-strong": "Marken skakar våldsamt!",
+  "earthquake:complete-toast": "Skakningssekvensen är avslutad: {0} stöt(ar), högsta magnitud {1}."
+}

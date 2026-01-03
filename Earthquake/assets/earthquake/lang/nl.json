@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Gebruik: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Ongeldig commando. Gebruik: /earthquake showdates of /earthquake gendates",
+  "earthquake:scheduled-dates": "Geplande aardbevingen voor jaar {0}: {1}",
+  "earthquake:no-dates": "Geen geplande aardbevingen gevonden voor dit jaar.",
+  "earthquake:regenerated": "Aardbevingsschema opnieuw gegenereerd voor jaar {0}.",
+  "earthquake:postquake": "Er heeft zich een aardbeving met magnitude {0} voorgedaan.",
+  "earthquake:warning-toast": "Vroege waarschuwing: je voelde een lichte trilling.. Er komt snel een aardbeving.",
+  "earthquake:warning-today": "Aardbevingswaarschuwing: vandaag zijn de schokken dichter op elkaar.",
+  "earthquake:foreshock-weak": "Je voelt zwakke trillingen onder je voeten.",
+  "earthquake:foreshock-medium": "De grond rommelt onheilspellend...",
+  "earthquake:foreshock-strong": "De grond schudt hevig!",
+  "earthquake:complete-toast": "De schokreeks is beëindigd: {0} schok(ken), maximale magnitude {1}."
+}

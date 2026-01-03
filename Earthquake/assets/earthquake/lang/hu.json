@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Használat: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Érvénytelen parancs. Használd: /earthquake showdates vagy /earthquake gendates",
+  "earthquake:scheduled-dates": "Ütemezett földrengések a(z) {0}. évre: {1}",
+  "earthquake:no-dates": "Nem találhatók ütemezett földrengések erre az évre.",
+  "earthquake:regenerated": "A földrengésütemezés újragenerálva a(z) {0}. évre.",
+  "earthquake:postquake": "{0} magnitúdójú földrengés történt.",
+  "earthquake:warning-toast": "Korai riasztás: Enyhe rezgést éreztél.. Hamarosan földrengés lesz.",
+  "earthquake:warning-today": "Földrengés-figyelmeztetés: Ma sűrűbbek a rengések.",
+  "earthquake:foreshock-weak": "Gyenge rengéseket érzel a lábad alatt.",
+  "earthquake:foreshock-medium": "A föld baljósan morajlik...",
+  "earthquake:foreshock-strong": "A föld erősen rázkódik!",
+  "earthquake:complete-toast": "A rengéssorozat véget ért: {0} lökés, legnagyobb magnitúdó {1}."
+}

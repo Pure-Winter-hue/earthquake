@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Употреба: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Неважећа команда. Користите: /earthquake showdates или /earthquake gendates",
+  "earthquake:scheduled-dates": "Планирани земљотреси за годину {0}: {1}",
+  "earthquake:no-dates": "Нема планираних земљотреса за ову годину.",
+  "earthquake:regenerated": "Распоред земљотреса поново генерисан за {0}. годину.",
+  "earthquake:postquake": "Догодио се земљотрес магнитуде {0}.",
+  "earthquake:warning-toast": "Рано упозорење: осетили сте благо вибрирање.. Ускоро следи земљотрес.",
+  "earthquake:warning-today": "Упозорење: данас су потреси гушћи.",
+  "earthquake:foreshock-weak": "Осећате благе потресе под ногама.",
+  "earthquake:foreshock-medium": "Тло злокобно тутњи...",
+  "earthquake:foreshock-strong": "Тло се снажно тресе!",
+  "earthquake:complete-toast": "Секвенца потреса је завршена: {0} потрес(а), највећа магнитуда {1}."
+}

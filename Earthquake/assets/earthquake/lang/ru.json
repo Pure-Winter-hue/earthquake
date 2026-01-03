@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Использование: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Неверная команда. Используйте: /earthquake showdates или /earthquake gendates",
+  "earthquake:scheduled-dates": "Запланированные землетрясения на {0} год: {1}",
+  "earthquake:no-dates": "На этот год запланированных землетрясений не найдено.",
+  "earthquake:regenerated": "График землетрясений заново создан на {0} год.",
+  "earthquake:postquake": "Произошло землетрясение магнитудой {0}.",
+  "earthquake:warning-toast": "Раннее предупреждение: вы почувствовали лёгкую вибрацию.. Скоро будет землетрясение.",
+  "earthquake:warning-today": "Предупреждение о землетрясении: сегодня толчки чаще.",
+  "earthquake:foreshock-weak": "Вы чувствуете слабые толчки под ногами.",
+  "earthquake:foreshock-medium": "Земля зловеще грохочет...",
+  "earthquake:foreshock-strong": "Земля сильно трясётся!",
+  "earthquake:complete-toast": "Сейсмическая последовательность завершена: {0} толчок(а), максимальная магнитуда {1}."
+}

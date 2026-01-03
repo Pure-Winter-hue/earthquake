@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Brug: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Ugyldig kommando. Brug: /earthquake showdates eller /earthquake gendates",
+  "earthquake:scheduled-dates": "Planlagte jordskælv for år {0}: {1}",
+  "earthquake:no-dates": "Ingen planlagte jordskælv fundet for dette år.",
+  "earthquake:regenerated": "Jordskælvsplanen er gendannet for år {0}.",
+  "earthquake:postquake": "Et jordskælv med styrke {0} har fundet sted.",
+  "earthquake:warning-toast": "Tidlig advarsel: Du mærker en let rystelse.. Et jordskælv kommer snart.",
+  "earthquake:warning-today": "Advarsel om jordskælv: I dag er rystelserne tættere på hinanden.",
+  "earthquake:foreshock-weak": "Du mærker svage rystelser under fødderne.",
+  "earthquake:foreshock-medium": "Jorden rumler ildevarslende...",
+  "earthquake:foreshock-strong": "Jorden ryster voldsomt!",
+  "earthquake:complete-toast": "Rystelsesforløbet er slut: {0} stød, maksimal magnitude {1}."
+}

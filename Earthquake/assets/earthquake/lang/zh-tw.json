@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "用法：/earthquake [showdates | gendates]",
+  "earthquake:usage": "無效的指令。請使用：/earthquake showdates 或 /earthquake gendates",
+  "earthquake:scheduled-dates": "{0} 年已排程的地震：{1}",
+  "earthquake:no-dates": "本年度未找到已排程的地震。",
+  "earthquake:regenerated": "已為 {0} 年重新產生地震時程。",
+  "earthquake:postquake": "發生了規模 {0} 的地震。",
+  "earthquake:warning-toast": "早期警報：你感到輕微震動.. 即將發生地震。",
+  "earthquake:warning-today": "地震警報：今天震動的間隔更短。",
+  "earthquake:foreshock-weak": "你感覺到腳下有微弱的搖動。",
+  "earthquake:foreshock-medium": "地面不祥地轟鳴...",
+  "earthquake:foreshock-strong": "地面劇烈搖晃！",
+  "earthquake:complete-toast": "地震序列已結束：{0} 次震動，峰值規模 {1}。"
+}

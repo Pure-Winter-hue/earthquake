@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Käyttö: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Virheellinen komento. Käytä: /earthquake showdates tai /earthquake gendates",
+  "earthquake:scheduled-dates": "Suunnitellut maanjäristykset vuodelle {0}: {1}",
+  "earthquake:no-dates": "Tälle vuodelle ei löytynyt suunniteltuja maanjäristyksiä.",
+  "earthquake:regenerated": "Maanjäristysaikataulu luotu uudelleen vuodelle {0}.",
+  "earthquake:postquake": "Maanjäristys magnitudilla {0} on tapahtunut.",
+  "earthquake:warning-toast": "Varhainen varoitus: Tunsit pienen tärähdyksen.. Maanjäristys on pian tulossa.",
+  "earthquake:warning-today": "Maanjäristysvaroitus: Tänään tärinät ovat lähempänä toisiaan.",
+  "earthquake:foreshock-weak": "Tunnet heikkoja tärinöitä jalkojesi alla.",
+  "earthquake:foreshock-medium": "Maa jylisee pahaenteisesti...",
+  "earthquake:foreshock-strong": "Maa tärisee rajusti!",
+  "earthquake:complete-toast": "Järistysjakso on päättynyt: {0} tärähdystä, suurin magnitudi {1}."
+}

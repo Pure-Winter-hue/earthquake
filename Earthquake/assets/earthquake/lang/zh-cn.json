@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "用法：/earthquake [showdates | gendates]",
+  "earthquake:usage": "无效的命令。请使用：/earthquake showdates 或 /earthquake gendates",
+  "earthquake:scheduled-dates": "年份 {0} 的计划地震：{1}",
+  "earthquake:no-dates": "本年度未找到计划的地震。",
+  "earthquake:regenerated": "已为 {0} 年重新生成地震计划。",
+  "earthquake:postquake": "发生了震级为 {0} 的地震。",
+  "earthquake:warning-toast": "早期预警：你感到轻微震动.. 即将发生地震。",
+  "earthquake:warning-today": "地震预警：今天的震动间隔更短。",
+  "earthquake:foreshock-weak": "你感觉到脚下有微弱的震动。",
+  "earthquake:foreshock-medium": "地面不祥地轰鸣...",
+  "earthquake:foreshock-strong": "地面剧烈摇晃！",
+  "earthquake:complete-toast": "震动序列已结束：{0} 次震动，峰值震级 {1}。"
+}

@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Uso: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Comando no válido. Usa: /earthquake showdates o /earthquake gendates",
+  "earthquake:scheduled-dates": "Terremotos programados para el año {0}: {1}",
+  "earthquake:no-dates": "No se encontraron terremotos programados para este año.",
+  "earthquake:regenerated": "Calendario de terremotos regenerado para el año {0}.",
+  "earthquake:postquake": "Se ha producido un terremoto de magnitud {0}.",
+  "earthquake:warning-toast": "Alerta temprana: has sentido una leve vibración.. Habrá un terremoto pronto.",
+  "earthquake:warning-today": "Alerta sísmica: hoy las sacudidas están más juntas.",
+  "earthquake:foreshock-weak": "Sientes temblores leves bajo tus pies.",
+  "earthquake:foreshock-medium": "El suelo retumba de forma ominosa...",
+  "earthquake:foreshock-strong": "¡El suelo tiembla violentamente!",
+  "earthquake:complete-toast": "La secuencia sísmica ha terminado: {0} choque(s), magnitud máxima {1}."
+}

@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "Použitie: /earthquake [showdates | gendates]",
+  "earthquake:usage": "Neplatný príkaz. Použite: /earthquake showdates alebo /earthquake gendates",
+  "earthquake:scheduled-dates": "Plánované zemetrasenia pre rok {0}: {1}",
+  "earthquake:no-dates": "Pre tento rok sa nenašli žiadne plánované zemetrasenia.",
+  "earthquake:regenerated": "Harmonogram zemetrasení bol znovu vygenerovaný pre rok {0}.",
+  "earthquake:postquake": "Došlo k zemetraseniu s magnitúdou {0}.",
+  "earthquake:warning-toast": "Včasné varovanie: Cítiš jemné vibrácie.. Čoskoro príde zemetrasenie.",
+  "earthquake:warning-today": "Varovanie pred zemetrasením: Dnes sú otrasy bližšie pri sebe.",
+  "earthquake:foreshock-weak": "Cítiš slabé otrasy pod nohami.",
+  "earthquake:foreshock-medium": "Zem hrozivo duní...",
+  "earthquake:foreshock-strong": "Zem sa prudko trasie!",
+  "earthquake:complete-toast": "Sekvencia otrasov sa skončila: {0} otras(y), maximálna magnitúda {1}."
+}

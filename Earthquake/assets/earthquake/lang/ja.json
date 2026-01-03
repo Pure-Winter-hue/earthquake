@@ -1,0 +1,14 @@
+{
+  "earthquake:cmd-help": "使い方: /earthquake [showdates | gendates]",
+  "earthquake:usage": "無効なコマンドです。/earthquake showdates または /earthquake gendates を使用してください",
+  "earthquake:scheduled-dates": "{0}年の予定された地震: {1}",
+  "earthquake:no-dates": "今年の予定された地震は見つかりませんでした。",
+  "earthquake:regenerated": "{0}年の地震スケジュールを再生成しました。",
+  "earthquake:postquake": "マグニチュード{0}の地震が発生しました。",
+  "earthquake:warning-toast": "早期警報: かすかな振動を感じた.. まもなく地震が来ます。",
+  "earthquake:warning-today": "地震警報: 今日は揺れの間隔が短くなっています。",
+  "earthquake:foreshock-weak": "足元で弱い揺れを感じる。",
+  "earthquake:foreshock-medium": "地面が不気味に鳴動している...",
+  "earthquake:foreshock-strong": "地面が激しく揺れる！",
+  "earthquake:complete-toast": "地震の一連の活動が終了: {0}回の揺れ、最大マグニチュード{1}。"
+}
